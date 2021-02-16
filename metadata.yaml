@@ -33,7 +33,8 @@ keywords: rescience c, basal ganglia, dynamics, neural networks
 #   see https://guides.github.com/activities/citable-code/
 code:
   - url: https://github.com/aleblois/BGdynamics2006/blob/master/Copie%20de%20simdelai2boucles_all2all_GPe.c
-  - doi:
+  - doi: 
+
 
 # Date URL and DOI (optional if no data)
 data:
@@ -45,14 +46,13 @@ replication:
  - cite: Leblois, A., Boraud, T., Meissner, W., Bergman, H. & Hansel, D. (2006) Competition between feedback loops underlies normal and pathological dynamics in the basal ganglia. J. Neurosci., 26, 3567–3583.
  - bib:  # Bibtex key (if any) in your bibliography file
  - url:  https://www.jneurosci.org/content/26/13/3567
- - doi:  https://doi.org/10.1523/JNEUROSCI.5050-05.2006
+ - doi:  https://doi.org/10.1523/JNEUROSCI.5050-05.2006 
 
 # Don't forget to surround abstract with double quotes
 abstract: "In 2006, during my PhD, I published my first modelling paper showing that the normal and pathological dynamics of the basal ganglia-thalamo-cortical network could be understood from a theoretical standpoint relying on a simplified model of the circuit. I recently was told by a colleague about a challenge to reproduce modelling studies over 10-years old. I was quite confident I could reproduce the results of my 2006 paper, which was based on a combination of analytical calculation and computer simulations programmed in C with figures produced through Matlab custom code. All the code was still saved on my computer (although in a simple but relatively messy file-and-folder organisation), and I went through my personal archives and re-run ancient code until I could provide again the results described here. "
 
 # Bibliography file (yours)
 bibliography: bibliography.bib
-
 # Type of the article
 # Type can be:
 #  * Editorial
@@ -66,7 +66,6 @@ domain: Computational Neuroscience
 
 # Coding language (main one only if several)
 language: C
-
 
 # To be filled by the author(s) after acceptance
 # -----------------------------------------------------------------------------
